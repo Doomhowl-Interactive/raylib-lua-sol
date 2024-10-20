@@ -1,6 +1,5 @@
-![raylib-lua-sol Logo](logo/raylib-lua-sol_256x256.png)
-
 # raylib-lua-sol
+(for latest raylib)
 
 [Lua](http://www.lua.org/) bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to enjoy videogames programming, with [sol](https://github.com/ThePhD/sol2) (www.raylib.com)
 
